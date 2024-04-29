@@ -1,1 +1,3 @@
-# InterviewQues_javaScript
+# InterviewQues_javaScript\
+This repo contains interview questions of javascript
+Question in this series related to : Javascript concepts, DSA , Leet Code Questions and many more...
